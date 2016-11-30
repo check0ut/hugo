@@ -1,2 +1,2 @@
-# hugo
-hugo
+# Repo for hugo
+
